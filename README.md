@@ -1,7 +1,7 @@
 # Build Back Better – ASEAN Data Science Explorer 2020
 
 This project was developed as part of the **ASEAN Data Science Explorers (ADSE) 2020** competition, an initiative by the ASEAN Foundation and SAP that empowers youth across Southeast Asia to harness the power of data for social impact.  
-
+![Build Back Better](images/home.png)
 ## 📖 Project Overview
 Our project, **Build Back Better**, was created under the theme of **UN Sustainable Development Goal (SDG) 8: Decent Work and Economic Growth**. The aim was to address the severe economic challenges faced by ASEAN nations in the wake of the COVID-19 pandemic and propose data-driven solutions to help **rebuild and strengthen ASEAN’s economy**.  
 
@@ -17,7 +17,7 @@ Our project was selected as a **Top 10 National Finalist** in the ADSE 2020 comp
 
 ## 🌏 Vision
 Through this project, we aimed to demonstrate how **data science and analytics can drive sustainable recovery and long-term growth in ASEAN economies**, while ensuring inclusivity and resilience in the face of future challenges.  
-
+git config --global http.postBuffer 524288000
 ## 🙌 Acknowledgments
 - **ASEAN Foundation & SAP** for organizing the ASEAN Data Science Explorers 2020.  
 - All mentors, peers, and collaborators who supported the development of this project.  
